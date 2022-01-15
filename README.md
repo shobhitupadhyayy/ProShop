@@ -34,6 +34,7 @@ npm install
             npm install
 
 - **Create a .env folder in the root for the enviorment variables**
+
 NODE_ENV = development
 
 PORT = 5000
