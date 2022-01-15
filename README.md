@@ -25,40 +25,40 @@ Throughout the project, these guys provided valuable assistance by sharing their
 - **Firstly, install all the dependendies (Frontend and Backend)**
 npm install
 
-**Frontend** - cd frontend
+            **Frontend** - cd frontend
 
-            npm install
+                        npm install
 
-**Backend** - cd backend
+            **Backend** - cd backend
 
-            npm install
+                        npm install
 
 - **Create a .env folder in the root for the enviorment variables**
 
-NODE_ENV = development
+            NODE_ENV = development
 
-PORT = 5000
+            PORT = 5000
 
-MONGO_URI = your mongodb uri
+            MONGO_URI = your mongodb uri
 
-JWT_SECRET = 'any string'
+            JWT_SECRET = 'any string'
 
-PAYPAL_CLIENT_ID = your paypal client id
+            PAYPAL_CLIENT_ID = your paypal client id
 
 - **To Run**
 
-Frontend - cd frontend (PORT:3000)
+            Frontend - cd frontend (PORT:3000)
 
-            npm start
-Backend - In root directory : npm run server (PORT:5000)
+                        npm start
+            Backend - In root directory : npm run server (PORT:5000)
 
-Both (Frontend & Backend) - npm run dev
+            Both (Frontend & Backend) - npm run dev
 
 - **Sample User Login**
 
-user123@gmail.com (customer)
+            user123@gmail.com (customer)
 
-password - 123456
+            password - 123456
 
 
 
@@ -66,15 +66,15 @@ password - 123456
 
 ## Tech Stack
 
-**Client:** React, Redux
+            **Client:** React, Redux
 
-**Server:** Node, Express
+            **Server:** Node, Express
 
-**DataBase:** MongoDB
+            **DataBase:** MongoDB
 
 
 ## License
 
-The MIT License
+            The MIT License
 
-Copyright (c) 2020 Traversy Media https://traversymedia.com
+            Copyright (c) 2020 Traversy Media https://traversymedia.com
