@@ -20,7 +20,7 @@ Throughout the project, these guys provided valuable assistance by sharing their
 
 
 
-## Roadmap
+## Running Process
 
 - **Firstly, install all the dependendies (Frontend and Backend)**
 npm install
