@@ -75,6 +75,6 @@ npm install
 
 ## License
 
-            The MIT License
+ The MIT License
 
-            Copyright (c) 2020 Traversy Media https://traversymedia.com
+ Copyright (c) 2020 Traversy Media https://traversymedia.com
