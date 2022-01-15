@@ -55,6 +55,7 @@ Backend - In root directory : npm run server (PORT:5000)
 Both (Frontend & Backend) - npm run dev
 
 - **Sample User Login**
+
 user123@gmail.com (customer)
 
 password - 123456
